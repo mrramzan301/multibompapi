@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/bomb",
+      "destination": "/api/bomb"
+    }
+  ]
+}
